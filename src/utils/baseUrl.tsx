@@ -1,0 +1,1 @@
+export const BASE_URL = `https://ssx-career.onrender.com/api/v1`
